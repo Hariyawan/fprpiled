@@ -1,8 +1,9 @@
 # fprpiled
 Fp Rpi LED
+
 A Free Pascal/Lazarus project as Raspberry Pi GPIO access sample
 
-FpiRpiLed may be compiled on generic GNU/Linux (and maybe Windows & Mac) systems as on Raspberry Pi. This program is useful only on Raspi, as it is aimed to play with some LEDs connected to the Raspi GPIO ports.
+FpiRpiLed may be compiled on generic GNU/Linux (and maybe Windows & Mac) systems as on Raspberry Pi. This program is useful only on Raspi, as it is aimed to play with some LEDs connected to the Raspi GPIO ports with just a bunch of buttons to turn LEDs on and off.
 
 Binary versions compiled on systems other than Raspberry Pi will run but will have the actual access to GPIO ignored (via compiler directives) and therefore can be used as example of the program UI. Binry versions compiled for ARM will try to actually access GPIO (it is supposed to be compiled for and run on Raspberry Pi or compatible hardware).
 
