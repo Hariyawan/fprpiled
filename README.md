@@ -9,6 +9,6 @@ Binary versions compiled on systems other than Raspberry Pi will run but will ha
 
 Port numbers may be assigned to GUI controls associated to different kind of LED: single color , RGB, double color; the program has a dedicated form which should make such operation quite simple.
 
-Remember that LEDs have to be connected using resistors of proper value in order to avoid damages. Please look around on the Net to gather further informations if you ar not sure about what you're doing (you may find many examples on Pi+LED).
+Remember that LEDs have to be connected using resistors of proper value in order to avoid damages. Please look around on the Net to gather further informations if you are not sure about what you're doing (you may find many examples on Pi+LED).
 
 I also suggest using a breadbord and GPIO breakout board.
