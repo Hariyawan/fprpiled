@@ -12,3 +12,5 @@ Port numbers may be assigned to GUI controls associated to different kind of LED
 Remember that LEDs have to be connected using resistors of proper value in order to avoid damages. Please look around on the Net to gather further informations if you are not sure about what you're doing (you may find many examples on Pi+LED).
 
 I also suggest using a breadbord and GPIO breakout board.
+
+Have fun with Raspberry Pi and Free Pascal/Lazarus.
